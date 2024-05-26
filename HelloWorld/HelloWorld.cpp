@@ -9,9 +9,7 @@ int main() {
 		cout << "Саня, хуй соси, ок? " << i << endl;
 		i++;
 	} while (i < 100);
-	cout << "						Поздравляем, вы хуесос!" << endl;
+	cout << "						Поздравляем, вы хуесос!" << endl; while (i > 100);
 	cin >> i;
 	return 0;
 }
-
-
